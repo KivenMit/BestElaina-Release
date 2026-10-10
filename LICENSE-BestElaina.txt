@@ -1,0 +1,72 @@
+BestElaina 工作站 — 非商业使用许可协议
+BestElaina Workstation — Non-Commercial License
+版本 1.0（2026-10-10）
+
+Copyright (C) 2026 BestElaina Authors. 保留所有权利。
+
+一、定义
+--------
+1. "本软件"：指 BestElaina Workstation 便携发行包，包括其中的可执行
+   程序、运行时组件、独立取证引擎（vol3）、随包工具、文档与全部随附
+   文件。"作者"：指 BestElaina Authors。
+
+二、您可以在以下条件下自由做的事
+--------------------------------
+1. 免费下载与使用：任何人可以免费下载、安装、解压并运行本软件，用于
+   个人学习、课堂教学、CTF 竞赛训练与安全研究。
+2. 完整转发分享：您可以原样复制并向他人分发**未经修改的完整发行包**
+   （保持全部文件、目录结构、版本资源与构建标识完整），且不得收取任何
+   费用。
+3. 正常使用产出：您使用本软件得到的分析结果、报告与题解归您所有。
+
+三、您不得做的事
+----------------
+1. 禁止商业使用与倒卖：未经作者事先书面授权，不得以任何形式出售、
+   租赁、捆绑收费、付费下载、变相收费或在本软件之上收取服务费。
+2. 禁止提取源代码：不得对本软件进行逆向工程、反编译、反汇编或拆包
+   提取程序代码与内部数据（法律强制规定允许的范围除外）。
+3. 禁止修改后再分发：不得分发本软件的修改版、衍生版或部分拷贝；
+   不得将本软件的全部或部分组件合并入其他作品后分发。
+4. 禁止移除标识：不得删除、遮盖或篡改本软件中的版权声明、构建水印
+   （含 elaina_build_*.stamp 与版本资源中的构建号）、许可文件及
+   RELEASE_NOTES。
+5. 禁止冒充与误导：不得声称本软件或其衍生版本由您或第三方开发，
+   不得利用本软件名义进行募捐、带货或引流。
+
+四、需要商业授权的情形
+----------------------
+任何企业、机构或个人如需将本软件用于商业用途（含但不限于内部商业
+培训、付费课程、商业取证服务、产品集成），请与作者联系取得书面授权。
+
+五、知识产权与救济
+------------------
+1. 本软件受《中华人民共和国著作权法》及国际版权公约保护。本软件的
+   全部代码、界面、文档与素材的著作权归作者所有；本协议未明确授予的
+   权利均由作者保留。
+2. 每份发行包内含唯一构建标识用于溯源。对违反本协议的行为（包括
+   倒卖、拆包、抄袭），作者有权依据水印标识举证，并依法主张权利，
+   包括但不限于向托管平台提交侵权投诉（DMCA 下架）与提起诉讼。
+
+六、免责声明
+------------
+本软件按"现状"提供，不附任何明示或默示的担保。在任何情况下，作者
+均不对因使用或无法使用本软件而产生的任何损失承担责任。使用者应确保
+自己的分析行为合法合规，仅对有权分析的镜像或系统取证。
+
+七、协议终止
+------------
+一旦违反本协议，您获得的全部使用授权自动终止，并应立即停止使用并
+删除所有副本。
+
+联系作者：通过 GitHub 仓库 Issues 联系。
+
+---
+英文摘要（ENGLISH SUMMARY — 中文版为准）
+This software may be downloaded and used free of charge for personal
+study, classroom teaching, CTF training and security research.
+Verbatim redistribution of the complete, unmodified package without
+charging is permitted. Selling, sublicensing, reverse engineering,
+redistribution of modified versions, and removal of copyright notices
+or build watermarks are prohibited. Commercial use requires prior
+written permission from the authors. The software is provided "as is"
+without warranty of any kind.
